@@ -7,8 +7,8 @@ import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/mock10.png';
+import mock09 from '../assets/images/musicsheet.jpg';
+import mock10 from '../assets/images/doodlejump.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -17,29 +17,30 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://github.com/khaliloualdchaib/Project_doodle_jump" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/khaliloualdchaib/Project_doodle_jump" target="_blank" rel="noreferrer"><h2>Doodle Jump</h2></a>
+                <p>Remade the doodle jump game in C++</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://github.com/khaliloualdchaib/Annotation_Binary_Classification" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/khaliloualdchaib/Annotation_Binary_Classification" target="_blank" rel="noreferrer"><h2>Human Annoitation Classifier</h2></a>
+                <p>Using image recognition techniques, I was able to classify whether a music sheet image contained any handwritten annotations.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <a href="https://github.com/khaliloualdchaib/Pro-League-of-Legends-Prediction-Tool/tree/main" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/khaliloualdchaib/Pro-League-of-Legends-Prediction-Tool/tree/main" target="_blank" rel="noreferrer"><h2>League of Legends Prediction & Analytics Tool</h2></a>
+                <p>Developed a web-based tool that allows users to input champion picks from a League of Legends match and instantly view detailed player and champion statistics. The tool also predicts the winning team, first blood, and first baron outcomes using a custom-built statistical model. Built with Python on the backend and ReactJS on the frontend, the application delivers fast, data-driven insights for competitive and casual players alike.</p>
             </div>
             <div className="project">
                 <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Datum: Integrated Learning Platform</h2></a>
-                <p>This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.</p>
+                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>LLM-Powered RAG System for Salesforce Documentation Support</h2></a>
+                <p>An intelligent Retrieval-Augmented Generation (RAG) system that helps users extract accurate, context-aware answers from Salesforce documentation.
+                This tool leverages a Large Language Model (LLM) backend to understand natural language queries and fetch the most relevant information from a curated set of Salesforce docs, streamlining support and reducing time spent searching. Tech Stack: Python · LangChain · ollama</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
-                <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
+                <div><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></div>
+                <div><h2>AI Voice Agent Appointment Setter</h2></div>
+                <p>The system can handle inbound calls, engage users in natural conversation, and schedule appointments seamlessly, no human needed.</p>
             </div>
             <div className="project">
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
