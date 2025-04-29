@@ -18,7 +18,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/khalil-ouald-chaib-4b4715312/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Khalil Ouald Chaib</h1>
-          <p>AI Engineer</p>
+          <p>Junior AI Engineer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/khaliloualdchaib" target="_blank" rel="noreferrer"><GitHubIcon/></a>
