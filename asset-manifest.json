@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-Khalil-Ouald-Chaib/static/css/main.a75bb338.css",
+    "main.js": "/portfolio-Khalil-Ouald-Chaib/static/js/main.1d498197.js",
+    "static/js/453.b05d8aa5.chunk.js": "/portfolio-Khalil-Ouald-Chaib/static/js/453.b05d8aa5.chunk.js",
+    "static/media/doodlejump.png": "/portfolio-Khalil-Ouald-Chaib/static/media/doodlejump.542dfb6b6d6471a64ded.png",
+    "static/media/bg-light.png": "/portfolio-Khalil-Ouald-Chaib/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/me.png": "/portfolio-Khalil-Ouald-Chaib/static/media/me.5c12b89472a24b58567f.png",
+    "static/media/bg-dark.png": "/portfolio-Khalil-Ouald-Chaib/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/musicsheet.jpg": "/portfolio-Khalil-Ouald-Chaib/static/media/musicsheet.bf1eb144582d19036b4f.jpg",
+    "static/media/mock07.png": "/portfolio-Khalil-Ouald-Chaib/static/media/mock07.e0a09fbd90a27d34d4f5.png",
+    "static/media/mock06.png": "/portfolio-Khalil-Ouald-Chaib/static/media/mock06.da736edab06f2b269abb.png",
+    "static/media/2.png": "/portfolio-Khalil-Ouald-Chaib/static/media/2.4009255491c5628d16fb.png",
+    "static/media/mock08.png": "/portfolio-Khalil-Ouald-Chaib/static/media/mock08.59b0af6c983271a17c44.png",
+    "index.html": "/portfolio-Khalil-Ouald-Chaib/index.html",
+    "main.a75bb338.css.map": "/portfolio-Khalil-Ouald-Chaib/static/css/main.a75bb338.css.map",
+    "main.1d498197.js.map": "/portfolio-Khalil-Ouald-Chaib/static/js/main.1d498197.js.map",
+    "453.b05d8aa5.chunk.js.map": "/portfolio-Khalil-Ouald-Chaib/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a75bb338.css",
+    "static/js/main.1d498197.js"
+  ]
+}
