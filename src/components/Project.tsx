@@ -76,14 +76,14 @@ function Project() {
         </div>
         <div className="project">
           <a
-            href="https://www.datumlearn.com/"
+            href="https://github.com/khaliloualdchaib/LLM_SUPPORT"
             target="_blank"
             rel="noreferrer"
           >
             <img src={mock07} className="zoom" alt="thumbnail" width="100%" />
           </a>
           <a
-            href="https://www.datumlearn.com/"
+            href="https://github.com/khaliloualdchaib/LLM_SUPPORT"
             target="_blank"
             rel="noreferrer"
           >
