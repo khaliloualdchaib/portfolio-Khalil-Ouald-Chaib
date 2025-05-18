@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-Khalil-Ouald-Chaib/static/css/main.a75bb338.css",
-    "main.js": "/portfolio-Khalil-Ouald-Chaib/static/js/main.1d498197.js",
+    "main.css": "/portfolio-Khalil-Ouald-Chaib/static/css/main.a0a2fb88.css",
+    "main.js": "/portfolio-Khalil-Ouald-Chaib/static/js/main.f2042927.js",
     "static/js/453.b05d8aa5.chunk.js": "/portfolio-Khalil-Ouald-Chaib/static/js/453.b05d8aa5.chunk.js",
     "static/media/doodlejump.png": "/portfolio-Khalil-Ouald-Chaib/static/media/doodlejump.542dfb6b6d6471a64ded.png",
     "static/media/bg-light.png": "/portfolio-Khalil-Ouald-Chaib/static/media/bg-light.bac0efb485244a522981.png",
@@ -13,12 +13,12 @@
     "static/media/2.png": "/portfolio-Khalil-Ouald-Chaib/static/media/2.4009255491c5628d16fb.png",
     "static/media/mock08.png": "/portfolio-Khalil-Ouald-Chaib/static/media/mock08.59b0af6c983271a17c44.png",
     "index.html": "/portfolio-Khalil-Ouald-Chaib/index.html",
-    "main.a75bb338.css.map": "/portfolio-Khalil-Ouald-Chaib/static/css/main.a75bb338.css.map",
-    "main.1d498197.js.map": "/portfolio-Khalil-Ouald-Chaib/static/js/main.1d498197.js.map",
+    "main.a0a2fb88.css.map": "/portfolio-Khalil-Ouald-Chaib/static/css/main.a0a2fb88.css.map",
+    "main.f2042927.js.map": "/portfolio-Khalil-Ouald-Chaib/static/js/main.f2042927.js.map",
     "453.b05d8aa5.chunk.js.map": "/portfolio-Khalil-Ouald-Chaib/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a75bb338.css",
-    "static/js/main.1d498197.js"
+    "static/css/main.a0a2fb88.css",
+    "static/js/main.f2042927.js"
   ]
 }
